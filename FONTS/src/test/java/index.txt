@@ -1,0 +1,5 @@
+domain: Codi per testejar les classes del package domain.
+domaincontrollers: Codi per testejar les classes del package domaincontrollers.
+persistence: Codi per testejar les classes del package persistence.
+presentation: Codi per testejar les classes del package presentation
+utils: Codi per testejar les classes del package utils.

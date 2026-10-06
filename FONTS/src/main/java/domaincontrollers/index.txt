@@ -1,0 +1,3 @@
+CtrlDomain.java: Controlador del domini.
+CtrlTransformData.java: Controlador encarregat d'implementar funcions específiques per
+    a comunicar la capa de domini amb la de presentació.

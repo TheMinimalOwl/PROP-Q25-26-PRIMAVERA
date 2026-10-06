@@ -1,0 +1,9 @@
+domain: Codi de les classes contigudes a la capa de domini del projecte.
+domaincontrollers: Codi de les classes Controladores del Domini.
+persistence: Codi de les classes contigudes a la capa de persistencia del projecte.
+presentation: Codi de les classes contigudes a la capa de presentacio del projecte.
+utils: Codi de classes que no estan vinculades a cap capa particular del projecte, 
+    com son nous tipus de dades indepenents de la funcionalitat de l'aplicacio,
+    excepcions que poden ser cridades des de qualssevol punt, etcetera.
+
+Driver.java: Driver usat per a fer testing

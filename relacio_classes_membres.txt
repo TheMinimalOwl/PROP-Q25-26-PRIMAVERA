@@ -1,0 +1,19 @@
+Forcadell Moral, Joel: AnonymousUser, Answer, RegisteredUser, User, VistaContestar, VistaCrearEditarForm
+
+Gil Martin, Samuel: AnswerFreeQuestion, AnswerMultipleChoiceQuestion, AnswerNumericalQuestion, AnswerSingleChoiceQuestion, AnswerToQuestion, FreeQuestion, MultipleChoiceQuestion, NumericalQuestion, OrderedSingleQuestion, Question, LoginView, SignUpView, MainMenuView
+
+Leivar Guiu, Artur: CtrlDomain, AppDataPath, Cache, CtrlAnalyze, CtrlAnswerQuestion, CtrlPersistence, DomainException, DoubleKey, EntityNotFoundException, PersistenceException, TripleKey
+
+Mestre Tugores, Tomeu: KMedoidsStrategy, AnalysisResult, Form, Analyze, AnalyzeStrategy, FileManager, GsonFactory, CtrlUser, CtrlFormQuestion
+
+Turro Gomez, Pau: KMeansStrategy, AnalyzeStrategy, Driver, VistaAnalitzar, VistaResultatsAnalisis
+
+
+AnalyzeStrategy s'ha fet en col.laboració entre Pau Turro i Tomeu Mestre ja que es la classe pare abstracte de Kmeans (Pau) i Kmedoids (Tomeu) i molts mètodes són comuns. 
+Principalment:
+- Pau ha implementat: funcions càlcul distàncies locals
+- Tomeu ha implementat: distància entre usuaris Manhattan, càlcul de qualitat del clustering, control d'excepcions
+
+CtrlPresentation s'ha fet en col.laboració entre Artur Leivar, Samuel Gil, Joel Forcadell i Pau Turro, ja que molts métodes es comparteixen entre controladors i vistes.
+
+CtrlTransformData s'ha fet en col.laboració entre Artur Leivar, Joel Forcadell i Pau Turro, ja que molts métodes es comparteixen entre controladors i vistes.

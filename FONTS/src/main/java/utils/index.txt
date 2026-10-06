@@ -1,0 +1,5 @@
+DoubleKey.java: Tipus de dades que simula una clau doble.
+EntityNotFoundException.java: Excepcio que es llança quan no es troba un objecte a l'emmagatzament.
+TripleKey.java: Tipus de dades que simula una clau triple.
+DomainException.java: Excepcio pensada per a comunicar la capa de domini amb la de presentacio.
+PersistenceException.java: Excepcio pensada per a comunicar la capa de persistencia amb la de domini.

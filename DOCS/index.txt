@@ -1,0 +1,8 @@
+javadoc: Conté la documentació de javadoc
+diagrama_casos_us.svg: diagrama de casos d'us del projecte 
+diagrama_model_conceptual_domini_disseny.svg: diagrama del model conceptual de domini en versio disseny
+diagrama_model_conceptual_persistencia_disseny.svg: diagrama del model conceptual de persistència en versio disseny
+diagrama_model_conceptual_presentacio_disseny.svg: diagrama del model conceptual de presentacio en versio disseny
+documentacio.pdf: Document que explica decisions i altres aspectes del projecte,
+  com els algorismes i estructures de dades utilitzats.
+manual_usuari.pdf: Manual d'usuari que explica pas per pas com fer servir el programa.

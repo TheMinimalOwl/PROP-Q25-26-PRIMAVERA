@@ -1,0 +1,4 @@
+DOCS: Conté el "Diagrama de Casos d'Us", el "Diagrama Estatic Complet del Model Conceptual
+  de Dades en Versio Disseny", i una "Breu descripcio de les Estructures de Dades i Algorismes".
+# EXE: Executables per provar les classes o funcionalitats implementades i jocs d’assaig.
+FONTS: Classes implementades per l’equip fins al moment de l'entrega (incloent-hi stubs i drivers).

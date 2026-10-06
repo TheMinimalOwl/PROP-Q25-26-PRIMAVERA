@@ -1,0 +1,11 @@
+AnalyzeStrategyAdapter.java: Specifies how to save Analyze to disk.
+AppDataPath.java: Returns correct path to save persistence.
+Cache.java: Cache implementation to make persistence faster.
+CtrlAnalyze.java: add, get, delete, exists for type Analyze.
+CtrlAnswerQuestion.java: add, get, delete, exists for type Answer and AnswerToQuestion.
+CtrlFormQuestion.java: add, get, delete, exists for type Form and Question.
+CtrlPersistence.java: Communicates persistence with Domain layer.
+CtrlUser.java: add, get, delete, exists for type User.
+FileManager.java: Saves and loads files to/from disk.
+GsonFactory.java: Creates a custom Gson instance.
+LocalDateTimeAdapter.java: Specifies how to save LocalDateTime to disk.

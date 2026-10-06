@@ -1,0 +1,17 @@
+AppDataPathTest.java
+CacheTest.java
+CtrlAnalyzePersistenceTest.java
+CtrlAnswerQuestionPersistenceTest.java
+CtrlFormQuestionPersistenceTest.java
+CtrlPersistenceTest.java
+CtrlUserPersistenceTest.java
+FileManagerTest.java
+PropertySetter.java
+SerializationTestAnalyze.java
+SerializationTestAnswer.java
+SerializationTestAnswerToQuestion.java
+SerializationTestForm.java
+SerializationTestQuestion.java
+SerializationTestUser.java
+
+Codi per testejar la classe corresponent al nom del fitxer.

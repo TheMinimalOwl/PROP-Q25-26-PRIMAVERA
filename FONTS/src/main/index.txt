@@ -1,0 +1,2 @@
+java: Aquest projecte Gradle usa el llenguatge de programacio Java, directori que segueix
+    les convencions de Gradle.

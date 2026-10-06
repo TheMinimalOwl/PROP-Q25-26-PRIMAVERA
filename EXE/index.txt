@@ -1,0 +1,2 @@
+form-builder.jar: Executable del programa. Es pot executar fent 'java -jar form-builder.jar'
+jocs_prova.pdf: Documentt que detalla tots els jocs de prova realitzats al programa.

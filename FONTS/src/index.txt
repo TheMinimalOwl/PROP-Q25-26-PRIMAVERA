@@ -1,0 +1,2 @@
+main: Conte el codi de l'aplicacio.
+test: Conte el codi relacionat amb els tests de l'aplicacio.

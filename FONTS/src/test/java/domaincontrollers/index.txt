@@ -1,0 +1,1 @@
+CtrlDomainTest.java: Codi per testejar la classe CtrlDomain.

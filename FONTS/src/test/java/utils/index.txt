@@ -1,0 +1,5 @@
+DomainExceptionTest.java: Codi per testejar la classe DomainException.
+DoubleKeyTest.java: Codi per testejar la classe DoubleKey.
+EntityNotFoundExceptionTest.java: Codi per testejar la classe EntityNotFoundException.
+PersistenceExceptionTest.java: Codi per testejar la classe PersistenceException.
+TripleKeyTest.java: Codi per testejar la classe TripleKey.

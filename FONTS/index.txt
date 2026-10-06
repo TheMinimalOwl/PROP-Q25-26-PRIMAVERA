@@ -1,0 +1,10 @@
+gradle: Directori especific de gradle, que conte el wrapper i propietats d'aquest. 
+src: Conte el codi i els tests de l'aplicacio.
+
+build.gradle: Configuracio principal de Gradle, s'hi especifica llenguatge de programacio,
+    classe "Main", dependencies a afegir, etc.
+gradle.properties: Mes configuracions de Gradle
+gradlew: Gradle start up scriptp per sistemes POSIX.
+gradlew.bat: Gradle startup script per sistemes Windows.
+README.md: Informacio util per usar gradle.
+settigns.gradle: Especificar quins projectes incluir a la build de gradle.

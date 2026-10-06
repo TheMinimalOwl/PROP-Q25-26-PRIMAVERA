@@ -1,0 +1,19 @@
+AnswerFreeQuestionTest.java
+AnswerMultipleChoiceQuestionTest.java
+AnswerNumericalQuestionTest.java
+AnswerSingleChoiceQuestionTest.java
+FreeQuestionTest.java
+KMeansStrategyTest.java
+MultipleChoiceQuestionTest.java
+NumericalQuestionTest.java
+OrderedSingleQuestionTest.java
+TestAnalysisResult.java
+TestAnalyze.java
+TestAnonymousUser.java
+TestAnswer.java
+TestForm.java
+TestKMedoids.java
+TestRegisteredUser.java
+TestUser.java
+
+Codi per testejar la classe corresponent al nom del fitxer.
